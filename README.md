@@ -6,7 +6,6 @@ JCrawlGUI is a Java application with a graphical user interface (GUI) that allow
 1. Scrape URLs: Extract URLs from a given web page and save their content to text files. 
 2. Download Images: Download all images from a given web page to a specified directory. 
 3. Search: Search for a specific term in the saved content files. 
-<br>
 ## Requirements
 - Java Development Kit (JDK) 8 or higher
 - JSoup library (version 1.17.2)
