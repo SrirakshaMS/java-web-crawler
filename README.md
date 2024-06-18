@@ -1,2 +1,2 @@
 # java-web-crawler
-Java WebCrawler and Indexing System
+Java Web Crawler and Indexing System
